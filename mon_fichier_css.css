@@ -28,3 +28,11 @@ h1 {
 thead > td {
   background-color: cornflowerblue;
 }
+td{
+  border-radius: 0%;
+  border-style: unset;
+}
+th{
+  border-radius: 0%;
+  border-style: unset;
+}
