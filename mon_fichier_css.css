@@ -1,18 +1,28 @@
 html {
-    background-color: green;
+    background-color: white;
     font-size: 20px;
   }
   
   ul {
-    background: red;
+    background: white;
     padding: 10px;
     border: 1px solid black;
   }
-  
-  li {
-    margin-left: 20px;
-  }
 h1 {
    color: red;
-   border: 5px solid red;
+   border: 5px solid red;     
+}
+time{
+    border: 0px;
+   vertical-align: top;
+   position: relative;
+   top: -13px;
+   font-weight: lighter;
+   text-align: right;
+   }
+.yellow{
+  background-color: yellow;
+}
+.pink{
+  background-color:pink;
 }
