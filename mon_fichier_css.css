@@ -2,17 +2,13 @@ html {
     background-color: white;
     font-size: 20px;
   }
-  
-  ul {
-    background: white;
-    padding: 10px;
-    border: 1px solid black;
-  }
+
 h1 {
    color: red;
-   border: 5px solid red;     
+   border: 5px solid red;    
+   text-align: center;   
 }
-time{
+.time{
     border: 0px;
    vertical-align: top;
    position: relative;
@@ -25,4 +21,10 @@ time{
 }
 .pink{
   background-color:pink;
+}
+.blue{
+  background-color: cornflowerblue;
+}
+thead > td {
+  background-color: cornflowerblue;
 }
